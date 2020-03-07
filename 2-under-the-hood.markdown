@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Under The Hood
-permalink: /Under-The-Hood/
 ---
 
 At the time of Richard Feynman's death, his black board had this quote written on it: "What I cannot create, I do not understand". The coverse of this statement is also true: "What I cannot understand, I cannot create". To quote the man, "If you can’t explain something in simple terms, you don’t understand it".

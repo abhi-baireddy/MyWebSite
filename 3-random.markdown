@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Random
-permalink: /Random/
+
 ---
 
 Human beings have this amazing ability to think which leads to all kinds of problems. I identify myself as a human being and I have reasonable evidence to believe that I am capable of thinking. But of what use are thoughts if they are not developed and shared? 
