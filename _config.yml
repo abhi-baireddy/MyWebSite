@@ -22,7 +22,7 @@ title: abhibaireddy.dev
 email: abhi.baireddy@utah.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Built with jekyll and github pages.
-baseurl: "/MyWebSite" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.abhibaireddy.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _abhi_b
 github_username:  abhi-baireddy
